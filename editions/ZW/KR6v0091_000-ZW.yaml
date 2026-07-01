@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0091/zw/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+  markers:
+  - {type: 其他, offset: 0, content: 《慧琳音義》與唐代大藏經, id: KR6v0091_ZW_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 《慧琳音義》與唐代大藏經
+  edition:
+    short: zw
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW08/ZW08n0071.xml
+    old_id: ZW08n0071
+hash: sha256:7c417aa5db63caeba4a11dbab28d0e657ccc21b68842b84498502718c3bdace7

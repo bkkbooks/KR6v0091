@@ -1,0 +1,48 @@
+canonical_identifier: bkk:krp/KR6v0091/ZW/v1
+canonical_location: https://kanripo.org/bkk/KR6v0091/ZW/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 《慧琳音義》與唐代大藏經
+  identifiers:
+    krp: KR6v0091
+    cbeta: ZW08n0071
+    cbeta_old_id: ZW08n0071
+    authorityid: CA0008495
+    json_key: ZW0071
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW08/ZW08n0071.xml
+    old_id: ZW08n0071
+  edition:
+    short: ZW
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0091_000-ZW.yaml, hash: 'sha256:7c417aa5db63caeba4a11dbab28d0e657ccc21b68842b84498502718c3bdace7'}
+  - {seq: 1, filename: KR6v0091_001-ZW.yaml, hash: 'sha256:bfb9df96f7cdd8fcbc0c9cbd0dadd7f9695ebad72faa6a8127de6be16d9bb64c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0091_000-ZW.markers.yaml, hash: 'sha256:ff23045089cb82000b12ae0605ec75008034213c4ca288e81ddcfd523550b04c'}
+  - {seq: 1, role: markers, filename: assets/KR6v0091_001-ZW.markers.yaml, hash: 'sha256:7c334e6397d3b9b420b293531274c786a73a23cc6d1281170271f96d2631d091'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0091_ZW_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 《慧琳音義》與唐代大藏經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0091_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 7690
+  label: 《慧琳音義》與唐代大藏經
+  type: juan
+  level: 1
+hash: sha256:0123e4ba6bbc8ec0f71089a4ddad2e9b30aea8bd12607529ed11195de3667021
