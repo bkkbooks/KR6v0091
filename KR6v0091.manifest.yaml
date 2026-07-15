@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0091/v1
 canonical_location: https://kanripo.org/bkk/KR6v0091/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 《慧琳音義》與唐代大藏經
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6v0091_000.yaml, hash: 'sha256:7c417aa5db63caeba4a11dbab28d0e657ccc21b68842b84498502718c3bdace7'}
-  - {seq: 1, filename: KR6v0091_001.yaml, hash: 'sha256:bfb9df96f7cdd8fcbc0c9cbd0dadd7f9695ebad72faa6a8127de6be16d9bb64c'}
+  - {seq: 1, filename: KR6v0091_001.yaml, hash: 'sha256:d5005c12ab84d6a67f31327dc4a46873b5fdc7a6df369c63e1738b8cb265ab3f'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0091_000.markers.yaml, hash: 'sha256:566b8f7a3c369f421eacbd35c622b6d714a515bc317a12e6c0f03e36ad6feacf'}
-  - {seq: 1, role: markers, filename: assets/KR6v0091_001.markers.yaml, hash: 'sha256:06f33edba64ef4cb9e1e8b63e4a2f0b315c666391150d24475d5b4d36cd8cefa'}
+  - {seq: 1, role: markers, filename: assets/KR6v0091_001.markers.yaml, hash: 'sha256:12f72e23bcbcee507b93092d8a7f23ea2b6f66bea31cea6ea84095b91a11f55c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -42,6 +42,9 @@ table_of_contents:
   label: 《慧琳音義》與唐代大藏經
   type: juan
   level: 1
-hash: sha256:126309a5bf67c79132a0d54717584ca57972f9d50288359a511b081ca1a0351e
+hash: sha256:8f2e2b682af42bb55cd954a0e0df3d4bd4e371869ad5fb3ab072e0d7afc3dcec
 editions:
 - short: ZW
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
